@@ -1,0 +1,11 @@
+name: SpiderSpawn
+version: 1.0
+author: Shalev
+main: me.shalev.SpiderSpawn.Main
+description: get 10 spiders in one command
+
+
+commands:
+  spiderspawn:
+    aliases: [ss]
+    description: /ss to spawn the 10 spiders
